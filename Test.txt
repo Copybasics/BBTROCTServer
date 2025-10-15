@@ -1,2 +1,3 @@
 <color=green>(08/23/25)</color> Testing new board? Amazing!
 <color=green>(10/03/25)</color> Happy creation day of BBITCN!
+<color=green>(10/14/25)</color> 0.2 First build is out!
